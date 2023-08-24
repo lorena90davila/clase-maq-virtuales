@@ -1,0 +1,9 @@
+
+1-Pudiera suceder en el caso de algunos lenguajes de programación y tambien dependiendo de si son lenguajes compilados, que hagamos la compilacion en una PC y no funcione en otra debido a que la arquitecura del procesador sea diferente y tambien por la interpretacion de ese archivo compilado que realiza cada SO en particular.
+
+2-Con VirtualBox se pueden emular maquinas virtuales de diversas caracteristicas en SOs como Linux, macOS, Windows y Oracle Solaris.
+
+3-El hypervisor nos permite crear y gestionar varias maquinas virtuales, ya sea que usemos un SO de por medio(tipo 2) o directamente sobre el hardware(tipo 1). Permite que varias maquinas virtuales funcionen a la par ya que proporciona a cada una los recursos fisicos que se le han sido asignados.
+
+4-No afectaria a las demas ya que cada maquina virtual es un sistema aislado.
+
